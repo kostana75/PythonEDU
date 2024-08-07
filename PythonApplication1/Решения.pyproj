@@ -5,7 +5,8 @@
     <ProjectGuid>d2046e08-8c3e-4dfb-bc99-5b16f6bb2a06</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Задание1.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +23,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Задание1.py" />
+    <AdditionalFiles Include="Задание1.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Задание2.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
