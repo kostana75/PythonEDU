@@ -23,10 +23,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <AdditionalFiles Include="Задание1.py" />
+    <AdditionalFiles Include="Урок3_Задание1.py" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Задание2.py">
+    <Compile Include="Урок4_Задание1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Урок3_Задание2.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
