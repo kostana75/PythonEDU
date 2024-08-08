@@ -59,6 +59,9 @@
     <Compile Include="Урок7_Задание2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Урок8_Задание1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Урок9_Задание1.py">
       <SubType>Code</SubType>
     </Compile>
