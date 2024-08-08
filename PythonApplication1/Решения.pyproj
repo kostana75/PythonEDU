@@ -62,6 +62,9 @@
     <Compile Include="Урок9_Задание1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Урок9_Задание2.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
