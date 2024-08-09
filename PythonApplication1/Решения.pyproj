@@ -26,6 +26,9 @@
     <AdditionalFiles Include="Урок3_Задание1.py" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Урок10_Задание1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Урок10_Задание2.py">
       <SubType>Code</SubType>
     </Compile>
