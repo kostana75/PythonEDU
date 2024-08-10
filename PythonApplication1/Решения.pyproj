@@ -35,6 +35,9 @@
     <Compile Include="Урок11_Задание1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Урок13_Задание1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Урок5_Задание2.py">
       <SubType>Code</SubType>
     </Compile>
